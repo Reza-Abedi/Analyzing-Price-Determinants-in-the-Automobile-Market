@@ -1,2 +1,2 @@
-# Analyzing-Price-Determinants-in-the-Automobile-Market
-Analyzing Price Determinants in the Automobile Market: A Case Study on Toyota Corolla Using Multiple Linear Regression
+# Analyzing Price Determinants in the Automobile Market: A Case Study on Toyota Corolla Using Multiple Linear Regression
+In the fiercely competitive automotive industry, understanding the intricate dynamics of pricing is paramount for any company aiming to establish itself in a new market. This case study delves into the pricing determinants of Toyota Corolla cars, utilizing a sophisticated statistical approach known as multiple linear regression. By investigating key variables such as age, kilometers driven, horsepower, transmission type, number of car doors, weight, and brand image, the study aims to unravel the complex web of factors influencing car prices in a novel market setting.
